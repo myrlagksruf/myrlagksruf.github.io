@@ -1,0 +1,1 @@
+import{S as o,i,s as r,e as c,c as l,n,f as m}from"../lib/index.js";function d(s){let e;return{c(){e=c("div"),e.textContent="hello"},m(t,a){l(t,e,a)},p:n,i:n,o:n,d(t){t&&m(e)}}}class p extends o{constructor(e){super(),i(this,e,null,d,r,{})}}new p({target:document.getElementById("app")});
